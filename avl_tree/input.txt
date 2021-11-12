@@ -1,0 +1,33 @@
+new
+  insert 100
+  insert 2
+  insert 300
+  insert 4
+  insert 500
+  insert 6
+  insert 700
+  insert 8
+  insert 91
+  insert 101
+  insert 111
+  insert 124
+  insert 131
+  insert 1473
+  insert 151
+  insert 160
+  
+  printDFS
+  print
+  size
+  height
+  front
+  back
+  
+  find 15
+  find 20
+  erase 16
+  height
+  printDFS
+  print
+  
+end

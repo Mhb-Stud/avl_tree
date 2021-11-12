@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Mohammad Bayati\source\repos\avl_tree\avl_tree\avl_tester.h(137,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Mohammad Bayati\source\repos\avl_tree\avl_tree\avl_tester.h(140,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Mohammad Bayati\source\repos\avl_tree\avl_tree\avl_tester.h(151,19): warning C4101: 'ex': unreferenced local variable
+C:\Users\Mohammad Bayati\source\repos\avl_tree\avl_tree\avl_tester.h(154,19): warning C4101: 'ex': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  avl_tree.vcxproj -> C:\Users\Mohammad Bayati\source\repos\avl_tree\Release\avl_tree.exe
